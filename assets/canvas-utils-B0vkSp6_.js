@@ -1,0 +1,1 @@
+function w(e,l,o){return(1-o)*e+o*l}function T(e,l,o,r){const s=Date.now()/200,i=l*r;for(let n=0;n<3;n++){e.beginPath(),e.moveTo(i,0);for(let a=0;a<=o;a+=10){const t=Math.sin(a/40+s+n)*15,f=Math.sin(a/25+s*1.5+n)*10,v=i+t+f-n*15;e.lineTo(v,a)}e.lineTo(0,o),e.lineTo(0,0),e.closePath(),e.fillStyle=`rgba(59, 130, 246, ${.2-n*.05})`,e.fill()}}export{T as d,w as l};
