@@ -1,1 +1,0 @@
-import{u as o,j as t,s as a}from"./vendor-B4d8bci1.js";const r=({accentColor:s="#4f46e5"})=>{const e=o();return t.jsx("button",{onClick:()=>e("/"),className:"back-button",style:{color:s},title:"返回首頁",children:t.jsx(a,{size:18})})};export{r as B};
