@@ -1,4 +1,4 @@
-import{r as h,j as t,m as Xe,I as Se,X as Ne,n as Ye,o as He,p as Ve,q as Ze,s as Je,W as Ke}from"./vendor-D5f4Kgef.js";import{f as Qe}from"./layout-DVS-lTL9.js";import{B as et}from"./BackButton-CcDZjtLo.js";import{u as tt,S as nt}from"./useWebGPUParticles-BIEkj0E3.js";import{u as st}from"./useCanvasResize-V2pEDrkV.js";import{c as rt}from"./useSpatialGrid-DZ1eiVa1.js";import{l as be,d as at}from"./canvas-utils-B0vkSp6_.js";import{R as ot,L as Ce,g as ye,m as Oe}from"./renderPipeline-mWo6fXpo.js";const lt=`struct Particle {
+import{r as h,j as t,m as Xe,I as Se,X as Ne,n as Ye,o as He,p as Ve,q as Ze,s as Je,W as Ke}from"./vendor-D5f4Kgef.js";import{f as Qe}from"./layout-BRlu5VG7.js";import{B as et}from"./BackButton-CcDZjtLo.js";import{u as tt,S as nt}from"./useWebGPUParticles-BIEkj0E3.js";import{u as st}from"./useCanvasResize-V2pEDrkV.js";import{c as rt}from"./useSpatialGrid-DZ1eiVa1.js";import{l as be,d as at}from"./canvas-utils-B0vkSp6_.js";import{R as ot,L as Ce,g as ye,m as Oe}from"./renderPipeline-mWo6fXpo.js";const lt=`struct Particle {
     positionSizeAlpha : vec4<f32>,
     color             : vec4<f32>,
     flags             : vec4<f32>,
