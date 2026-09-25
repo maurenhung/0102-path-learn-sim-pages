@@ -1,4 +1,4 @@
-import{r as d}from"./vendor-D5f4Kgef.js";import{u as _}from"./useWebGPUParticles-BIEkj0E3.js";const k=`struct Particle {
+import{r as d}from"./vendor-D5f4Kgef.js";import{u as _}from"./useWebGPUParticles-B47gNmkg.js";const k=`struct Particle {
     positionSizeAlpha : vec4<f32>,
     color             : vec4<f32>,
     flags             : vec4<f32>,
