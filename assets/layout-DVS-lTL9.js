@@ -1,0 +1,1 @@
+function r(t,n,a){const o=Math.min(1.4,Math.max(1,a/Math.max(1,n)));return(.5+(t-.5)*o)*a}function m(t,n,a=0){return{x:Math.random()*t,y:a+Math.random()*Math.max(1,n-a),vx:(Math.random()-.5)*2,vy:(Math.random()-.5)*1.5+.3}}export{m as f,r as s};
